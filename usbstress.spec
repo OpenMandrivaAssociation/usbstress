@@ -12,7 +12,6 @@ Group:		System/Kernel and hardware
 Source0:	%{name}-%{version}.tar.bz2
 Patch0:		uhcidump.c.patch.bz2
 Patch1:		ihex2hdr.c.patch.bz2
-Buildroot:	 %{_tmppath}/%{name}-%{version}-root
 
 %description
 This is a USB stress test suite.  It requires an AnchorChips AN2131
