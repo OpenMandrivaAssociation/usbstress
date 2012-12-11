@@ -1,2 +1,4 @@
 sources:
-  "usbstress-0.3.tar.bz2:"	6f2e2dd340167343e8149dfcc87a185af3672b13
+  "ihex2hdr.c.patch.bz2": fd97dffdc42a873ac2f5d49c622a95d4de0daf64
+  "uhcidump.c.patch.bz2": 894a9d1a41c0987b341c1e9bd7b647d8b78403f2
+  "usbstress-0.3.tar.bz2": 6f2e2dd340167343e8149dfcc87a185af3672b13
