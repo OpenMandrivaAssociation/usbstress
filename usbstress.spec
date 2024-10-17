@@ -6,7 +6,7 @@ Name:           %{name}
 Version:        %{version}
 Release:        %{release}
 Summary:	USB test Load
-URL:		http://www.lrr.in.tum.de/Par/arch/usb/download/usbstress/
+URL:		https://www.lrr.in.tum.de/Par/arch/usb/download/usbstress/
 License:	GPL
 Group:		System/Kernel and hardware
 Source0:	%{name}-%{version}.tar.bz2
