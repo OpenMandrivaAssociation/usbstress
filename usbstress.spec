@@ -14,6 +14,11 @@ Patch0:		uhcidump.c.patch.bz2
 Patch1:		ihex2hdr.c.patch.bz2
 Buildroot:	 %{_tmppath}/%{name}-%{version}-root
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 This is a USB stress test suite.  It requires an AnchorChips AN2131
 based device, which is loaded with a special test firmware.
